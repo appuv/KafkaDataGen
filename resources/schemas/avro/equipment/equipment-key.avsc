@@ -1,0 +1,13 @@
+{
+  "namespace": "com.appu",
+  "type": "record",
+  "name": "equipmentkey",
+  "fields": [
+    {
+      "name": "serial",
+      "type": "string",
+      "doc": "Serial Number of the equipment"
+
+    }
+  ]
+}

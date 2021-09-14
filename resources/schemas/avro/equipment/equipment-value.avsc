@@ -1,0 +1,25 @@
+{
+  "namespace": "com.appu",
+  "type": "record",
+  "name": "equipmentvalue",
+  "fields": [
+    {
+      "name": "serial",
+      "type": "string",
+      "doc": "Serial Number of the equipment"
+
+    },
+    {
+      "name": "owner",
+      "type": "string",
+      "doc": "Owner name of the equipment"
+
+    },
+    {
+      "name": "temp",
+      "type": "string",
+      "doc": "Temperature in degree celsius of the equipment"
+
+    }
+  ]
+}
