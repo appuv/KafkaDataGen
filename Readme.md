@@ -1,6 +1,6 @@
 #Equipment Data Generation
 Data Generation for the equipment stream analytics
-
+z
 ## Prerequisite
 1. [Python 3.8.5](https://www.python.org/downloads/release/python-385/)
 2. [Docker](https://www.docker.com/)   
@@ -10,7 +10,7 @@ Python Packages Required :
 
    confluent_kafka,kafka,kafka-python,requests,avro
 
-##Setup
+## Setup
 Configure the config.properties
 
 For creating mock avro records (Equipment Mock Streams)
@@ -22,15 +22,15 @@ For creating meta json records (Meta Update Streams)
 python equipmentConsume.py
 ```
 
-##Schema Evolution
+## Schema Evolution
 For schema evolution change the config.properties to match the upgraded schema
 ```
 equipment-value-schema=equipment-value-upgrade.avsc
 mock_data=equipment-upgrade-mock
 ```
 
-## Demo Link
-[Youtube Link](https://youtu.be/Cj3BeA4bV1c)
-
+## Further Reading
 [Medium](https://medium.com/@masterappu/realtime-temperature-analytics-using-kafka-b1db9d91b870)
 
+## Demo
+[Youtube](https://youtu.be/Cj3BeA4bV1c)
