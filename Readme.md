@@ -1,6 +1,8 @@
 # Equipment Data Generation
 Data Generation for the equipment stream analytics
 
+[![CodeQL](https://github.com/appuv/KafkaDataGen/actions/workflows/github-code-scanning/codeql/badge.svg)](https://github.com/appuv/KafkaDataGen/actions/workflows/github-code-scanning/codeql)
+
 ## Prerequisite
 1. [Python 3.8.5](https://www.python.org/downloads/release/python-385/)
 2. [Docker](https://www.docker.com/)   
