@@ -1,7 +1,7 @@
 # Equipment Data Generation
 Data Generation for the equipment stream analytics
 
-[![CodeQL](https://github.com/appuv/KafkaDataGen/actions/workflows/github-code-scanning/codeql/badge.svg)](https://github.com/appuv/KafkaDataGen/actions/workflows/github-code-scanning/codeql) [![License](https://img.shields.io/github/license/appuv/KafkaDataGen)](https://github.com/appuv/KafkaDataGen/blob/main/LICENSE) [![GitHub top language](https://img.shields.io/github/languages/top/appuv/KafkaDataGen)]([https://github.com/appuv/KafkaDataGen](https://img.shields.io/github/languages/top/appuv/KafkaDataGen))
+[![CodeQL](https://github.com/appuv/KafkaDataGen/actions/workflows/github-code-scanning/codeql/badge.svg)](https://github.com/appuv/KafkaDataGen/actions/workflows/github-code-scanning/codeql) [![License](https://img.shields.io/github/license/appuv/KafkaDataGen)](https://github.com/appuv/KafkaDataGen/blob/master/LICENSE) [![GitHub top language](https://img.shields.io/github/languages/top/appuv/KafkaDataGen)]([https://github.com/appuv/KafkaDataGen](https://img.shields.io/github/languages/top/appuv/KafkaDataGen))
 
 ## Prerequisite
 1. [Python 3.8.5](https://www.python.org/downloads/release/python-385/)
